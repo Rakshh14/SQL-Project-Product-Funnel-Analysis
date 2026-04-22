@@ -202,15 +202,6 @@ Funnel analysis is one of the most common tasks performed by Product Analysts an
 
 This project demonstrates how SQL can be used not only to query data but also to extract actionable product insights.
 
-
-
-Author
-
-~ Nishant Lokhande
-
-Aspiring Data Analyst / Product Analyst
-
-
 Focus areas:
 ====================================================
 
@@ -221,11 +212,3 @@ Focus areas:
 3. Funnel analysis
 
 5. Data-driven decision making
-
-
-
-
-
-
-
-
